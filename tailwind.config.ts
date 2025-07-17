@@ -61,7 +61,12 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				// TONYaps custom colors
+				'neon-purple': 'hsl(var(--neon-purple))',
+				'neon-cyan': 'hsl(var(--neon-cyan))',
+				'deep-space': 'hsl(var(--deep-space))',
+				'cosmic-blue': 'hsl(var(--cosmic-blue))'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
